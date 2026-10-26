@@ -71,6 +71,11 @@
       "LiteLLM",
       "https://github.com/BerriAI/litellm",
       "统一多模型 API 调用层。"
+    ],
+    [
+      "TeapotRouter",
+      "https://teapotrouter.com/",
+      "按量计费的模型 API 网关，一个 Key 同时兼容 Claude Code 与 OpenAI SDK；邀请注册双方各得 $1 额度，$1 起充即可试用。"
     ]
   ],
   "quick_start": [

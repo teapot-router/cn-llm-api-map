@@ -62,6 +62,7 @@
 | Fireworks AI | 模型推理和 fine-tuning 平台。 | [访问](https://fireworks.ai/) |
 | SiliconFlow | 中文用户常用模型 API 平台。 | [访问](https://siliconflow.cn/) |
 | LiteLLM | 统一多模型 API 调用层。 | [访问](https://github.com/BerriAI/litellm) |
+| TeapotRouter | 按量计费的模型 API 网关，一个 Key 同时兼容 Claude Code 与 OpenAI SDK；邀请注册双方各得 $1 额度，$1 起充即可试用。 | [访问](https://teapotrouter.com/) |
 
 ## 选型建议
 
